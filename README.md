@@ -53,7 +53,7 @@ npm run dev
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"> Live Demo
 
-Coming Soon...
+(https://prasad-portfolio-five.vercel.app/)
 
 ---
 
