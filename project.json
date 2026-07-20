@@ -1,0 +1,24 @@
+{
+  "overview": "Professional portfolio website for Prasad Kapile, a Python Developer and AI/ML Engineering student with AICTE-approved internship experience.",
+  "features": [
+    "Professional hero section with internship credentials",
+    "Categorized skills with 7 groups and Lucide icons",
+    "Experience section with exact AICTE-approved internship dates",
+    "Projects showcase with real AI/ML project",
+    "Education, Certifications, and Achievements sections",
+    "Resume download with sticky floating CTA button",
+    "GitHub profile card",
+    "Full SEO and WCAG AA accessibility"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "python",
+    "ai-ml",
+    "internship",
+    "software-engineering",
+    "dark-theme",
+    "glassmorphism"
+  ],
+  "last_updated": "2026-06-14T17:00:12.097Z"
+}
