@@ -7,7 +7,7 @@ import { Education } from "@/sections/Education";
 import { Experience } from "@/sections/Experience";
 import { GitHubSection } from "@/sections/GitHubSection";
 import { Hero } from "@/sections/Hero";
-import { Projects } from "@/sections/Projects";
+import Projects from "@/sections/Projects";
 import { Resume, StickyResumeButton } from "@/sections/Resume";
 import { Skills } from "@/sections/Skills";
 
